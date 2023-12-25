@@ -1,6 +1,6 @@
-681x17,「人工言語リスト」暫定Cotec版,かえる（元データ: みかぶるさん）,2023-12-21T15:00:00.000Z,2023-12-25T08:48:08.105Z,CC0,"© Mikanixonable, kaeru2193 under CC0",0
+681x17,「人工言語リスト」暫定Cotec版,"みかぶる (Mikanixonable), かえる (kaeru2193)",2023-12-21T15:00:00.000Z,2023-12-25T08:54:21.477Z,CC0,"© みかぶる (Mikanixonable), かえる (kaeru2193) under CC0",0
 messier,name,kanji,desc,creator,period,site,twitter,dict,grammar,world,category,moyune,cla,part,example,script
-Unknown,Array[NString],Array[NString],Array[NString],Array[NString],DateRange,Array[Url],Array[Url],Array[NString],Array[NString],Array[NString],Array[NString],Array[MoyuneClass],Array[LangCode],Unknown,Array[NString],Array[NString]
+Any,Array[NString],Array[NString],Array[NString],Array[NString],DateRange,Array[Url],Array[Url],Array[NString],Array[NString],Array[NString],Array[NString],Array[MoyuneClass],Array[LangCode],Any,Array[NString],Array[NString]
 ,u_lang,,,efal,2023,https://migdal.jp/u_,https://twitter.com/uosakana_u,,https://migdal.jp/u_/ulang-%E6%96%87%E6%B3%95%E6%A6%82%E8%A6%81-10-54o3,,アプリオリ言語,,,,,
 ,ゲルド語,,ゲーム「ゼルダの伝説シリーズ」に「時のオカリナ」から登場する,任天堂,1998-2023,https://dic.nicovideo.jp/a/%E3%82%B2%E3%83%AB%E3%83%89%E6%97%8F,,,,,,,,,,
 ,ミートピア文字;Miitopia,,ゲーム「ゼルダの伝説シリーズ」に登場する,任天堂,2021,https://universeandspirit.com/2021/06/24/are-miitopia-letters-the-alphabet-of-the-future-lets-become-familiar-with-the-character-of-meatpia-to-solve-the-mystery/,,,,,,,,,,
