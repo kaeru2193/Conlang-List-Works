@@ -83,7 +83,7 @@ def HTMLToTable(elem):
                 else:
                     processed = a.get_text() #その他のリンクは全てテキストとして置換
 
-                a.replace_with(processed + "\n")
+                a.replace_with(processed)
             
             trimed: str = cell.get_text().replace(u"\xa0", u" ").strip() #xa0(ノーブレークスペース)を通常のスペースに置き換え
                 
@@ -105,7 +105,7 @@ def TableProcess(tableArr):
         for idx, cell in enumerate(row):
             splitted = cell.split("\n")
             for data in splitted: #表の行ごとの処理
-                categoryReg = re.compile(r"^(.+?):(.*)")
+                categoryReg = re.compile(r"^(.+?):(.*)$")
                 result = categoryReg.search(data)
                 
                 if (idx == 5): #分類欄である場合、処理が特殊になる
@@ -123,6 +123,8 @@ def TableProcess(tableArr):
                 elif (result): #コロン付きの形式である場合
                     category = str.strip(result.group(1)) #カテゴリ名(コロン前)抽出&前後の空白削除
                     content: str = str.strip(result.group(2))
+                    if (category == "twitter"):
+                        print(data)
                     flag = False
                     for cat in classTable:
                         if (re.compile(cat["name"]).match(category)):
