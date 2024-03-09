@@ -23,6 +23,7 @@ jobs:
         run: python py/main.py
       - name: Commit Change
         run: |
+          git config user.name  "actions-user"
           git config user.email "action@github.com"
           git add .
           git commit -m "updated migdal-wiki-list"
