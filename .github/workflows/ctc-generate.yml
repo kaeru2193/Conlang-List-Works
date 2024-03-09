@@ -1,0 +1,28 @@
+name: CTC Generate
+
+on:
+  schedule:
+    - cron:  '0 9 1 * *'
+  workflow_dispatch:
+
+jobs:
+  ctc-generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+          architecture: 'x64'
+      - name: Get Python version
+        run: python -V
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Run Python
+        run: python py/main.py
+      - name: Commit Change
+        run: git config user.email "action@github.com"
+            git add .
+            git commit -m "updated migdal-wiki-list"
+            git push
