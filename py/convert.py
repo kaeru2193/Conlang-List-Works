@@ -123,8 +123,6 @@ def TableProcess(tableArr):
                 elif (result): #コロン付きの形式である場合
                     category = str.strip(result.group(1)) #カテゴリ名(コロン前)抽出&前後の空白削除
                     content: str = str.strip(result.group(2))
-                    if (category == "twitter"):
-                        print(data)
                     flag = False
                     for cat in classTable:
                         if (re.compile(cat["name"]).match(category)):

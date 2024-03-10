@@ -8,7 +8,7 @@ res = requests.get(url)
 
 soup = BeautifulSoup(res.text, "html.parser")
 
-table = soup.select("#mw-content-text > div.mw-parser-output > table")[0] #wiki中から表部分を抽出
+table = soup.select("div#mw-content-text > div.mw-parser-output table")[0] #wiki中から表部分を抽出
 
 rawTable = HTMLToTable(table)
 processedTable = TableProcess(rawTable)
