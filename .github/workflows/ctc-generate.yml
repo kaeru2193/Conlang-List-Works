@@ -2,7 +2,7 @@ name: CTC Generate
 
 on:
   schedule:
-    - cron:  '0 9 1 * *'
+    - cron:  '0 0 1 * *'
   workflow_dispatch:
 
 jobs:
@@ -26,5 +26,5 @@ jobs:
           git config user.name  "actions-user"
           git config user.email "action@github.com"
           git add .
-          git commit -m "updated migdal-wiki-list"
+          git commit -m "updated conlinguistics-wiki-list"
           git push
