@@ -150,11 +150,12 @@ def DataFormat(data):
     head = [
         str(len(cleaned)) + "x" + str(len(categories)),
         "日本語圏の人工言語の一覧表 Cotec変換済みデータ",
-        "みかぶる (Mikanixonable), かえる (kaeru2193), Migdal Conlang Wiki上の記事編集者",
+        #"みかぶる (Mikanixonable), かえる (kaeru2193), Migdal Conlang Wiki上の記事編集者",
+        "みかぶる (Mikanixonable), かえる (kaeru2193), 人工言語学Wiki上の記事編集者",
         "2024-03-09T00:00:00.000Z",
         datetime.now(timezone.utc).isoformat(timespec='milliseconds').replace('+00:00', 'Z'),
         "CC BY-SA 4.0",
-        "© みかぶる (Mikanixonable), かえる (kaeru2193), Migdal Conlang Wiki上の記事編集者 under CC BY-SA 4.0",
+        "© みかぶる (Mikanixonable), かえる (kaeru2193), 人工言語学Wiki上の記事編集者 under CC BY-SA 4.0",
         "0"
     ]
 
