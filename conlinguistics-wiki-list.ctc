@@ -1,4 +1,4 @@
-749x17,日本語圏の人工言語の一覧表 Cotec変換済みデータ,"みかぶる (Mikanixonable), かえる (kaeru2193), 人工言語学Wiki上の記事編集者",2024-03-09T00:00:00.000Z,2024-11-01T01:53:05.209Z,CC BY-SA 4.0,"© みかぶる (Mikanixonable), かえる (kaeru2193), 人工言語学Wiki上の記事編集者 under CC BY-SA 4.0",0
+753x17,日本語圏の人工言語の一覧表 Cotec変換済みデータ,"みかぶる (Mikanixonable), かえる (kaeru2193), 人工言語学Wiki上の記事編集者",2024-03-09T00:00:00.000Z,2024-12-01T02:08:17.460Z,CC BY-SA 4.0,"© みかぶる (Mikanixonable), かえる (kaeru2193), 人工言語学Wiki上の記事編集者 under CC BY-SA 4.0",0
 messier,name,kanji,desc,creator,period,site,twitter,dict,grammar,world,category,moyune,cla,part,example,script
 Any,Array[NString],Array[NString],Array[NString],Array[NString],DateRange,Array[Url],Array[Url],Array[NString],Array[NString],Array[NString],"Array[Union[Pair[NString,NString],NString]]",Array[MoyuneClass],Array[LangCode],Any,Array[NString],Array[NString]
 ,3CL,,英単語を縮めた三文字で意味を伝える国際補助語,,2004-2006,https://web.archive.org/web/20061209210102/http://members.goo.ne.jp/home/3cl/ サイト2: https://web.archive.org/web/20041010133035/http://www.geocities.co.jp/SiliconValley/3338/サイト3: https://web.archive.org/web/20041031105937/http://www.geocities.co.jp/SiliconValley/3338/page019.html文法: https://web.archive.org/web/20050128142511/http://www.geocities.co.jp/SiliconValley/3338/page006.html,,,,,国際補助語,,,,,
@@ -371,7 +371,11 @@ Any,Array[NString],Array[NString],Array[NString],Array[NString],DateRange,Array[
 ,イトゥラ語,,https://twitter.com/Ast_berkeley/status/1546417081905991680,霧島美佳,2022-2023,,https://twitter.com/MiKA_VISION_G;https://twitter.com/Ast_berkeley,,,,,,,,,
 ,Nanash,,,2chユーザー,2015,https://seesaawiki.jp/nanashlanger/ 文法: https://seesaawiki.jp/nanashlanger/d/%cc%be%bb%ec,,,,,,,,,,
 ,帝国公用語,,ライアーソフト社のゲームシリーズスチームパンクシリーズに登場する言語。語順はSCVで、男性名詞と女性名詞が存在せず、単数と複数とで文法上の違いがなく、助詞の使用法や順序が文章や会話によって変化する、文語と口語で文体が異なる,桜井光,2009-2012,,,,,,,,,,,
-,リサトプ語,,,LΛMPLIGHT,2015,https://www.youtube.com/playlist?list=PLUPfWiftqUrJsAeqxPw0STphFa874GR04,,,,,,,,,,
+,リサトプ語,莉語,,LΛMPLIGHT,2012,https://lamplight0.sakura.ne.jp/a/articles/ サイト2: https://www.youtube.com/playlist?list=PLUPfWiftqUrJsAeqxPw0STphFa874GR04 辞書: https://lamplight0.sakura.ne.jp/a/langs/sdic.php?lang=lis,https://twitter.com/L4MPLIGHT,,,,,,,,,
+,シャサフ語;サフチック,沙語,,LΛMPLIGHT,2012以前,https://lamplight0.sakura.ne.jp/a/articles/ サイト2: https://www.youtube.com/playlist?list=PLUPfWiftqUrJsAeqxPw0STphFa874GR04 辞書: https://lamplight0.sakura.ne.jp/a/langs/sdic.php?lang=saf,https://twitter.com/L4MPLIGHT,,,,,,,,,
+,フェント語,玢語,,LΛMPLIGHT,2024以前,https://lamplight0.sakura.ne.jp/a/articles/ 辞書: https://lamplight0.sakura.ne.jp/a/langs/sdic.php,https://twitter.com/L4MPLIGHT,,,,,,,,,
+,ユプケット,邑語,シャサフ語やリサトプ語の前身・祖語に相当する,LΛMPLIGHT,2012以前,,https://twitter.com/L4MPLIGHT,,,,,,,,,
+,ケテージ語;シャサフ祖語,桁語,シャサフ語の初期の形式であり、ユプケットを祖に持つ,LΛMPLIGHT,2012以前,,https://twitter.com/L4MPLIGHT,,,,,,,,,
 ,セラフェノ語,,ライトノベル「黄昏色の詠使い」に登場する,,2007-2009,https://w.atwiki.jp/zarabel/pages/15.html 文法: https://w.atwiki.jp/zarabel/pages/11.html辞書: https://w.atwiki.jp/zarabel/pages/4.html,,,,小説「黄昏色の詠使い」,,,,,,
 ,公共語（パブリック）,,田中芳樹の小説「タイタニア」に登場する。英語と音は同じだが、綴りが表音主義になっている。,,1988-2015,https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E3%82%BF%E3%83%8B%E3%82%A2#%E7%94%A8%E8%AA%9E,,,,,,,,,,
 ,帝国公用語,,田中芳樹の小説「銀河英雄伝説」に登場する。,,1982,,,,,カダス世界,,,,,,
