@@ -1,4 +1,4 @@
-778x17,日本語圏の人工言語の一覧表 Cotec変換済みデータ,"みかぶる (Mikanixonable), かえる (kaeru2193), 人工言語学Wiki上の記事編集者",2024-03-09T00:00:00.000Z,2025-04-01T02:05:13.556Z,CC BY-SA 4.0,"© みかぶる (Mikanixonable), かえる (kaeru2193), 人工言語学Wiki上の記事編集者 under CC BY-SA 4.0",0
+785x17,日本語圏の人工言語の一覧表 Cotec変換済みデータ,"みかぶる (Mikanixonable), かえる (kaeru2193), 人工言語学Wiki上の記事編集者",2024-03-09T00:00:00.000Z,2025-05-01T02:07:15.576Z,CC BY-SA 4.0,"© みかぶる (Mikanixonable), かえる (kaeru2193), 人工言語学Wiki上の記事編集者 under CC BY-SA 4.0",0
 messier,name,kanji,desc,creator,period,site,twitter,dict,grammar,world,category,moyune,cla,part,example,script
 Any,Array[NString],Array[NString],Array[NString],Array[NString],DateRange,Array[Url],Array[Url],Array[NString],Array[NString],Array[NString],"Array[Union[Pair[NString,NString],NString]]",Array[MoyuneClass],Array[LangCode],Any,Array[NString],Array[NString]
 ,3CL,,英単語を縮めた三文字で意味を伝える国際補助語,,2004-2006,https://web.archive.org/web/20061209210102/http://members.goo.ne.jp/home/3cl/ サイト2: https://web.archive.org/web/20041010133035/http://www.geocities.co.jp/SiliconValley/3338/サイト3: https://web.archive.org/web/20041031105937/http://www.geocities.co.jp/SiliconValley/3338/page019.html文法: https://web.archive.org/web/20050128142511/http://www.geocities.co.jp/SiliconValley/3338/page006.html,,,,,国際補助語,,,,,
@@ -779,3 +779,10 @@ Any,Array[NString],Array[NString],Array[NString],Array[NString],DateRange,Array[
 ,el naix,,2025-01-31から2025-02-21にかけて行われた第10回人工言語コンペの参加作品( https://twitter.com/lang_compe/status/1885297905751515155 )。お題は「邪神、悪魔、亡霊、悪鬼…この世に存在する邪悪な者たち。その邪悪な存在と交信し、召喚するのに使われるのはある特別な言語。さて、それはどんな言語でしょうか？邪悪な存在に関する神話や伝説の体系と、交信や呪文に使われる言語を作り解説してください。ただし、もし『本物』を召喚してしまった場合は自己責任となりますのでご注意を…」,rain sailen,2025/2,https://migdal.jp/rain_sailen/2025-年-2-月-コンペ-21nc,,,,,,,,,,
 ,ɸːə̃ˈcʰʀʷɑb;刃の言語,,第10回人工言語コンペの出題者による作品,矛盾と混沌,2025/2,https://migdal.jp/mujunkonton/第十回人工言語コンペ参加作品ではない-33g8,https://twitter.com/MujunKonton,,,,,,,,,
 ,邪神ロイ語,,,雨刄,2025/2,https://migdal.jp/amaki_iwano/邪神ロイ語---ⱞձᰛզ-32nn,,,,,,,,,,
+,多久後語;Tagelese,,多久後は「タグーロ」と読む,舞孫弗たつきん,2018以前,http://dic.game-kids.net/a.php/%E5%A4%9A%E4%B9%85%E5%BE%8C%E8%AA%9E 辞書: https://glosbe.com/mis_tag/ja,https://twitter.com/Myson_dol,,,多久後帝国,,,,,,多久後文字(独自文字);ラテン文字
+,漢多語;Chintlese,,独自の漢字(Unicodeで表示できない)も使用するため、別の漢字で代用することがある。,舞孫弗たつきん,2018以前,http://dic.game-kids.net/a.php/%E6%BC%A2%E5%A4%9A%E8%AA%9E 辞書: https://glosbe.com/mis_chi/ja,https://twitter.com/Myson_dol,,,多久後帝国,,,,,,漢字
+,プリーヤ！語;プリーヤ語;Pleeyan;Pleeyan!,,,舞孫弗たつきん,2018以前,http://dic.game-kids.net/a.php/%E3%83%97%E3%83%AA%E3%83%BC%E3%83%A4%E8%AA%9E 辞書: https://glosbe.com/mis_ple/ja,https://twitter.com/Myson_dol,,,多久後帝国,,,,,,
+,ニュタグリ語;修正多久後語;Njutagriz;Newtagelese,,多久後語の後継言語;多久後文字(独自文字);ラテン文字,舞孫弗たつきん,2025/2/25,,https://twitter.com/Myson_dol,https://zpdic.ziphil.com/dictionary/njutagriz,,多久後帝国,,,,,,
+,チカラ語;Чикараго;Čikarago,力語,,舞孫弗たつきん,2025/3/10,,https://twitter.com/Myson_dol,https://zpdic.ziphil.com/dictionary/cikarago,,,,,,,,キリル文字;ラテン文字
+,キューテプラヤヌ！語;KÜTEPURAYANUḶ,,プリーヤ！語の後継言語;複合語によって単語を構成するものが多い,舞孫弗たつきん,2025/3/26,,https://twitter.com/Myson_dol,https://zpdic.ziphil.com/dictionary/kutepurayanul,,多久後帝国,,,,,,
+,コンボワードニーズ語;Combowordnese,,複合語によって単語を構成する言語。形態素は英語由来のものが多い,舞孫弗たつきん,2025/4/11,,https://twitter.com/Myson_dol,https://zpdic.ziphil.com/dictionary/combowordnese,,,,,,,,片仮名
