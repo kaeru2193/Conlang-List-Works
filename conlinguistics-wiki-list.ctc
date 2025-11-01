@@ -1,4 +1,4 @@
-785x17,日本語圏の人工言語の一覧表 Cotec変換済みデータ,"みかぶる (Mikanixonable), かえる (kaeru2193), 人工言語学Wiki上の記事編集者",2024-03-09T00:00:00.000Z,2025-10-01T02:03:17.812Z,CC BY-SA 4.0,"© みかぶる (Mikanixonable), かえる (kaeru2193), 人工言語学Wiki上の記事編集者 under CC BY-SA 4.0",0
+785x17,日本語圏の人工言語の一覧表 Cotec変換済みデータ,"みかぶる (Mikanixonable), かえる (kaeru2193), 人工言語学Wiki上の記事編集者",2024-03-09T00:00:00.000Z,2025-11-01T02:02:40.751Z,CC BY-SA 4.0,"© みかぶる (Mikanixonable), かえる (kaeru2193), 人工言語学Wiki上の記事編集者 under CC BY-SA 4.0",0
 messier,name,kanji,desc,creator,period,site,twitter,dict,grammar,world,category,moyune,cla,part,example,script
 Any,Array[NString],Array[NString],Array[NString],Array[NString],DateRange,Array[Url],Array[Url],Array[NString],Array[NString],Array[NString],"Array[Union[Pair[NString,NString],NString]]",Array[MoyuneClass],Array[LangCode],Any,Array[NString],Array[NString]
 ,3CL,,英単語を縮めた三文字で意味を伝える国際補助語,,2004-2006,https://web.archive.org/web/20061209210102/http://members.goo.ne.jp/home/3cl/ サイト2: https://web.archive.org/web/20041010133035/http://www.geocities.co.jp/SiliconValley/3338/サイト3: https://web.archive.org/web/20041031105937/http://www.geocities.co.jp/SiliconValley/3338/page019.html文法: https://web.archive.org/web/20050128142511/http://www.geocities.co.jp/SiliconValley/3338/page006.html,,,,,国際補助語,,,,,
@@ -97,7 +97,7 @@ Any,Array[NString],Array[NString],Array[NString],Array[NString],DateRange,Array[
 ,るる語;るるさん語,,,多々井ゆかり,2020-2023,,https://twitter.com/rafenemine,https://zpdic.ziphil.com/dictionary/lulusam,,,,,,,,
 ,鉄鰻語,,,多々井ゆかり,2023,https://twitter.com/rafenemine/status/1694375011874992163,https://twitter.com/rafenemine,,,,,,,,,
 ,コトキス語,,,多々井ゆかり,2023,https://twitter.com/rafenemine/status/1500341923017478146,https://twitter.com/rafenemine,,,,,,,,,
-,LANDI;7セグ語;人工言語ランディ,,トキポナにインスパイアされた単語数136のミニマル言語,清水隆紀(1971-),2021-2023,https://ameblo.jp/shimizu-tknr/entry-12787465480.html,https://twitter.com/tokipona_landi,,,,CLA v3:~_di_~_lan,,,,,
+,LANDI;ランディ，７セグ語,,わずか136個の単語(すべて1音節)に、簡素で合理的な文字を充てた、簡潔な文法をもつミニマル言語。トキポナ既修者には習得しやすい。,清水隆紀(1971-),2023,https://drive.google.com/file/d/10S56dmuHniOgCRlEoCP7KwvnBl_7EJTp,https://twitter.com/tokipona_landi,,,,CLA v3:~_di_~_lan,,,,,
 ,ソウキ語;ソウキ・ヘイコウ語;ハラソウキ語,,,Ag Ycafsh R Zhefmnga(Ycaf? ? ?efm?a);甲斐華冬;ソウキ・ハラー,2022-2023,,https://twitter.com/kyomu_aniki;https://twitter.com/shimizu_tknr,,,,CLA v3:~_sw_swq_vid,,,,,
 ,ソヨル語,,,,2017,https://conlinguistics.fandom.com/ja/wiki/%E3%82%BD%E3%83%A8%E3%83%AB%E8%AA%9E,,,,,,,,,,
 ,空見語;sorami vari,,創作プロジェクト大宇宙の言語のひとつ,アクマ;アクア;akvis,2016-2017,https://conlinguistics.fandom.com/ja/wiki/%E7%A9%BA%E8%A6%8B%E8%AA%9E,https://twitter.com/harmat_noln,,,,,,,,,
@@ -552,8 +552,8 @@ Any,Array[NString],Array[NString],Array[NString],Array[NString],DateRange,Array[
 ,中西氷柱 氏の暗号言語,,https://twitter.com/TsuraraNakanis1/status/1497489321430896641,中西 氷柱 (Tsurara Nakanishi),2022,,https://twitter.com/TsuraraNakanis1,,,,,,,,,
 ,ラニャフ・ファザ語,,,,2020,,https://twitter.com/Ranyar_faza_tan,,,,,,,,,
 ,にゃん語 (仮),,,yuzuru_sofia,2023年以前,https://ziphil.github.io/ConlangVestiges/exhibit/20.html,,,,,,,,,,
-,piska,SOV語順で7つの格がある,,かん/piska,2020-2023,https://twitter.com/kanmi_piska/status/1235571087733211136 辞書: https://zpdic.ziphil.com/dictionary/piska,https://twitter.com/kanmi_piska,,,,,,,,,
-,カラニア語,表記にキリル文字を用いる,,Кумрал Каланд Ⅳ,2017-2020,https://calaniakingdom.jimdofree.com/home/calanian/ 文法: https://calaniakingdom.jimdofree.com/home/calanian/grammar/辞書: https://calaniakingdom.jimdofree.com/home/calanian/word/,https://twitter.com/caliniakingdom,,,,,,,,,キリル文字
+,piska,,SOV語順で7つの格がある,かん/piska,2020-2023,https://twitter.com/kanmi_piska/status/1235571087733211136 辞書: https://zpdic.ziphil.com/dictionary/piska,https://twitter.com/kanmi_piska,,,,,,,,,
+,カラニア語,,,Кумрал Каланд Ⅳ,2017-2020,https://calaniakingdom.jimdofree.com/home/calanian/ 文法: https://calaniakingdom.jimdofree.com/home/calanian/grammar/辞書: https://calaniakingdom.jimdofree.com/home/calanian/word/,https://twitter.com/caliniakingdom,,,,,,,,,キリル文字
 ,ユーロコロン;Ehwlekwrn,,https://twitter.com/aoao_rato_nns/status/1184442429421699072,Ao^2-Rato,2019,,https://twitter.com/aoao_rato_nns,,,あり,,,,,,
 ,ヘールニー;Heirnih,,https://twitter.com/aoao_rato_nns/status/1184442429421699072,Ao^2-Rato,2019,,https://twitter.com/aoao_rato_nns,,,あり,,,,,,
 ,人工言語くふ,,ミニマル言語,人工言語くふ,2022,https://kupu-language.blog.jp/ 文法: https://kupu-language.blog.jp/archives/12816038.html辞書: https://kupu-language.blog.jp/archives/12816048.html,https://twitter.com/language_kupu,,,,ミニマル言語,,,,,
