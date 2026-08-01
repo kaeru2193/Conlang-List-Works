@@ -1,4 +1,4 @@
-788x17,日本語圏の人工言語の一覧表 Cotec変換済みデータ,"みかぶる (Mikanixonable), かえる (kaeru2193), 人工言語学Wiki上の記事編集者",2024-03-09T00:00:00.000Z,2026-07-01T04:40:55.262Z,CC BY-SA 4.0,"© みかぶる (Mikanixonable), かえる (kaeru2193), 人工言語学Wiki上の記事編集者 under CC BY-SA 4.0",0
+790x17,日本語圏の人工言語の一覧表 Cotec変換済みデータ,"みかぶる (Mikanixonable), かえる (kaeru2193), 人工言語学Wiki上の記事編集者",2024-03-09T00:00:00.000Z,2026-08-01T01:56:08.142Z,CC BY-SA 4.0,"© みかぶる (Mikanixonable), かえる (kaeru2193), 人工言語学Wiki上の記事編集者 under CC BY-SA 4.0",0
 messier,name,kanji,desc,creator,period,site,twitter,dict,grammar,world,category,moyune,cla,part,example,script
 Any,Array[NString],Array[NString],Array[NString],Array[NString],DateRange,Array[Url],Array[Url],Array[NString],Array[NString],Array[NString],"Array[Union[Pair[NString,NString],NString]]",Array[MoyuneClass],Array[LangCode],Any,Array[NString],Array[NString]
 ,3CL,,英単語を縮めた三文字で意味を伝える国際補助語,,2004-2006,https://web.archive.org/web/20061209210102/http://members.goo.ne.jp/home/3cl/ サイト2: https://web.archive.org/web/20041010133035/http://www.geocities.co.jp/SiliconValley/3338/サイト3: https://web.archive.org/web/20041031105937/http://www.geocities.co.jp/SiliconValley/3338/page019.html文法: https://web.archive.org/web/20050128142511/http://www.geocities.co.jp/SiliconValley/3338/page006.html,,,,,国際補助語,,,,,
@@ -789,3 +789,5 @@ Any,Array[NString],Array[NString],Array[NString],Array[NString],DateRange,Array[
 ,キューテプラヤヌ！語;KÜTEPURAYANUḶ,,プリーヤ！語の後継言語;複合語によって単語を構成するものが多い,舞孫弗たつきん,2025/3/26,,https://twitter.com/Myson_dol,https://zpdic.ziphil.com/dictionary/kutepurayanul,,多久後帝国,,,,,,
 ,コンボワードニーズ語;Combowordnese,,複合語によって単語を構成する言語。形態素は英語由来のものが多い,舞孫弗たつきん,2025/4/11,,https://twitter.com/Myson_dol,https://zpdic.ziphil.com/dictionary/combowordnese,,,,,,,,片仮名
 ,ヨコガナ,,日本語をラテン文字の如く横書きで表記する書記体系,橘榛名;Misskey.io: https://misskey.io/@ta_haruna,2019?,https://c4se.hatenablog.com/entry/2019/08/11/234422,,,,,,,,,,
+,Aemondo (アエモンド語),,エスペラントを基盤に、SVO語順固定と標識語で「前方予測性」を高めた国際補助語。,ぴぴ いちろ (PIPI icxiro);Twitter: https://x.com/icxiro,2026/5/13,https://aemondo.pages.dev/,,https://zpdic.ziphil.com/dictionary/aemondo,,,国際補助語,,,,,
+,悪党語（あくとうご）,,悪党共和国で話されているという設定。,悪党セプテット,2026/7/14,,,https://zpdic.ziphil.com/dictionary/akutogo,,悪党共和国,アプリオリ言語;モユネ分類:NAT/IMG/SER,,,,,
